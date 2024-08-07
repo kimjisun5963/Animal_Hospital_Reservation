@@ -28,7 +28,7 @@
 #### 프로젝트 경험
 + fullCalrendar 라이브러리를 통해 일정 페이지 구현
 + Chart.js를 사용하여 관리자 대시보드 차트 구현
-+ ** fullCalrendar와 버튼 출력시 초기 세팅 데이터와 동기, 비동기 문제를 해결**
++ **fullCalrendar와 버튼 출력시 초기 세팅 데이터와 동기, 비동기 문제를 해결**
 + Spring Data JPA 페이징 구현 
 
 [📃 자세히 보기](https://drive.google.com/file/d/1KvCtl5SKhY5vYS1g2CWQ5r1DrTJaPc9F/view?usp=sharing)
