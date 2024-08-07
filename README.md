@@ -1,6 +1,6 @@
 # 🐾 3차 파이널프로젝트 – 중계플랫폼 웹/앱(견강할고양)
 
-![1번이미지](https://github.com/kimjisun5963/shoppingMall/blob/main/0-1.PNG)
+![1번이미지](https://kimjisun5963.github.io/images/slide/3-1.PNG)
 
 - **소개**
 
