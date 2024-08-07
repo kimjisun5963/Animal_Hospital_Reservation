@@ -3,6 +3,8 @@
 ![1번이미지](https://kimjisun5963.github.io/images/slide/3-1.PNG)
 
 - **소개**
+  
+  ** 🏆 작품발표회 수상**
 
   동물병원과 반려인 사이 병원 예약 중계 플랫폼,
   
